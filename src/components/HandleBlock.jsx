@@ -53,7 +53,7 @@ function TextUpdaterNode({ data, isConnectable, selected, setSelected }) {
           <SelectTrigger className="w-[80px]">
             <SelectValue placeholder="Select bg color" />
           </SelectTrigger>
-          <SelectContent>
+          <SelectContent> 
             <SelectGroup>
               <SelectItem value="red">Red</SelectItem>
               <SelectItem value="yellow">Yellow</SelectItem>
